@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kaiva-jumike.github.io/jelgavas-kodols/sitemap.xml

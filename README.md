@@ -1,1 +1,0 @@
-Jelgavas Kodols mājaslapa

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://kaiva-jumike.github.io/jelgavas-kodols/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://kaiva-jumike.github.io/jelgavas-kodols/</loc>
+</url>
+<url>
+<loc>https://kaiva-jumike.github.io/jelgavas-kodols/aktualitates/</loc>
+<lastmod>2026-07-24T11:30:13+03:00</lastmod>
+</url>
+<url>
+<loc>https://kaiva-jumike.github.io/jelgavas-kodols/klut-par-biedru/</loc>
+<lastmod>2026-08-04T11:35:26+03:00</lastmod>
+</url>
+<url>
+<loc>https://kaiva-jumike.github.io/jelgavas-kodols/kontakti/</loc>
+<lastmod>2026-08-04T11:43:30+03:00</lastmod>
+<image:image>
+<image:loc>https://kaiva-jumike.github.io/jelgavas-kodols/media/posts/4/logo-2.png</image:loc>
+<image:title><![CDATA[Jelgavas Centra apkaimes biedrības &quot;Jelgavas Kodols&quot; logotips]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://kaiva-jumike.github.io/jelgavas-kodols/par-apkaimi/</loc>
+<lastmod>2026-08-04T11:43:20+03:00</lastmod>
+<image:image>
+<image:loc>https://kaiva-jumike.github.io/jelgavas-kodols/media/posts/6/centra_apkaime.png</image:loc>
+<image:title><![CDATA[Jelgavas Centra apkaimes robežas kartē]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kaiva-jumike.github.io/jelgavas-kodols/media/posts/6/apkaimju_karte_junijs_2026_ieksa.jpg</image:loc>
+<image:title><![CDATA[Jelgavas valstspilsētas pašvaldības izstrādātā Jelgavas apkaimju karte]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://kaiva-jumike.github.io/jelgavas-kodols/par-biedribu/</loc>
+<lastmod>2026-08-04T11:34:45+03:00</lastmod>
+</url>
+<url>
+<loc>https://kaiva-jumike.github.io/jelgavas-kodols/privatuma-politika/</loc>
+<lastmod>2026-08-04T11:36:47+03:00</lastmod>
+</url>
+<url>
+<loc>https://kaiva-jumike.github.io/jelgavas-kodols/sikdatnu-politika/</loc>
+<lastmod>2026-08-04T11:40:56+03:00</lastmod>
+</url>
+</urlset>
