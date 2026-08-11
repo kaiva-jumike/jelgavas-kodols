@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Jelgavas Kodols",
     "description": "",
-    "home_page_url": "https://kaiva-jumike.github.io/jelgavas-kodols",
-    "feed_url": "https://kaiva-jumike.github.io/jelgavas-kodols/feed.json",
+    "home_page_url": "https://jelgavaskodols.lv",
+    "feed_url": "https://jelgavaskodols.lv/feed.json",
     "user_comment": "",
-    "icon": "https://kaiva-jumike.github.io/jelgavas-kodols/media/website/logo2-2.png",
+    "icon": "https://jelgavaskodols.lv/media/website/logo2-2.png",
     "author": {
         "name": "anta"
     },
